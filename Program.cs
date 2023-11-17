@@ -19,7 +19,6 @@
             if (idade >= 15 && idade <= 60)
                 PessoaDe20a60Anos();
 
-
             else if (idade > 60)
                 PessoaAcimaDe60Anos();
             #endregion
