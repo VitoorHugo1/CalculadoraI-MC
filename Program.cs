@@ -11,7 +11,7 @@
             if (idade <= 0)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Idade Invalida !");
+                Console.WriteLine("Idade Invalida!");
                 Console.ResetColor();
             }
 
